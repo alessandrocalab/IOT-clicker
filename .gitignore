@@ -1,1 +1,4 @@
 secrets.h
+ledBuiltin/
+WiFiAP/
+persistentMem/
